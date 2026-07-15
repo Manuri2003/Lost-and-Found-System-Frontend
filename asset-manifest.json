@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Lost-and-found-system-frontend/static/css/main.0d6acde6.css",
+    "main.js": "/Lost-and-found-system-frontend/static/js/main.cbe323d3.js",
+    "static/js/453.01020aa2.chunk.js": "/Lost-and-found-system-frontend/static/js/453.01020aa2.chunk.js",
+    "static/media/request.png": "/Lost-and-found-system-frontend/static/media/request.b2fd794ba1a37d7772e9.png",
+    "static/media/item.png": "/Lost-and-found-system-frontend/static/media/item.e4794b677927027605db.png",
+    "static/media/user.png": "/Lost-and-found-system-frontend/static/media/user.ee69db83e369770de584.png",
+    "static/media/lostfound.png": "/Lost-and-found-system-frontend/static/media/lostfound.520f292b541199de3829.png",
+    "index.html": "/Lost-and-found-system-frontend/index.html",
+    "main.0d6acde6.css.map": "/Lost-and-found-system-frontend/static/css/main.0d6acde6.css.map",
+    "main.cbe323d3.js.map": "/Lost-and-found-system-frontend/static/js/main.cbe323d3.js.map",
+    "453.01020aa2.chunk.js.map": "/Lost-and-found-system-frontend/static/js/453.01020aa2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d6acde6.css",
+    "static/js/main.cbe323d3.js"
+  ]
+}
